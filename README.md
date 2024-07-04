@@ -1,0 +1,2 @@
+"# mintepython" 
+"# qrcode" 
