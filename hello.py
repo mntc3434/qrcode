@@ -1,4 +1,4 @@
 print("hello")
 a=1
 if a=1
- print("hello python this is simpel code")
+ print("hello python this is simpel code for commit")
