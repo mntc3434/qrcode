@@ -1,4 +1,4 @@
-..import qrcode
+.import qrcode
 import image
 qr = qrcode.QRCode(
     version= 10,
